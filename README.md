@@ -5,14 +5,14 @@
 
 This Virtual Assistant powered by **IBM Watson** has the following features:-
 * Greetings
-* What's New
+* Dialogue Engagement
 * Remembering the User's Name.
-* Time
-* Google Search
-* Youtube Search
-* Jokes
-* Current Weather
-* Maps
-* News
+* Telling the Time 
+* Google Search Queries
+* Youtube Search Queries
+* Searching for a location in Google Maps
+* Jokes (Over 2000)
+* Getting Current Weather
+* Getting the Current News
 
-
+This assistant has been built in python and I will keep developing it through the year.
