@@ -17,5 +17,5 @@ This Virtual Assistant powered by **IBM Watson** has the following features:-
 
 This assistant has been built in python and I will keep developing it through the year.
 
-<img src="https://github.com/siddh30/SID-THE-AI-ASSISTANT/blob/main/Gifs_and_Video/ezgif-7-661bf3d6756f.gif width="250" height="250"" width="200">                                                                                                                                   
+<img src="https://github.com/siddh30/SID-THE-AI-ASSISTANT/blob/main/Gifs_and_Video/ezgif-7-661bf3d6756f.gif width="250">                                                                                                                                   
                                                                                                             
