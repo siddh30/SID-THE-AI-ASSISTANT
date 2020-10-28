@@ -15,6 +15,5 @@ This Virtual Assistant powered by **IBM Watson** has the following features:-
 * Getting Current Weather
 * Getting the Current News
 
-This assistant has been built in python and I will keep developing it through the year.
 
                                                                                                             
