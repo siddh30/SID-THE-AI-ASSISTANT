@@ -3,7 +3,7 @@
 
 ![](https://github.com/siddh30/SID-THE-AI-ASSISTANT/blob/main/Gifs_and_Video/ezgif-7-661bf3d6756f.gif)
 
-This Virtual Assistant powered by **IBM Watson** has the following features:-
+This virtual assistant is powered by **IBM Watson** and has the following features:-
 * Greetings
 * Dialogue Engagement
 * Remembering the User's Name.
